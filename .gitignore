@@ -1,0 +1,6 @@
+[bB]uild/
+.DS_Store
+.cache
+.vscode
+assets
+archive
